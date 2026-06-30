@@ -1,0 +1,11 @@
+.rebajado{
+ color:red; 
+font-size:40px; 
+font-weight:bold;
+}
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background: black;
+    color: white;
+}
